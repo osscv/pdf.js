@@ -43,6 +43,7 @@ https://pdf-js.dkly.top/web/viewer.html?file=<your-pdf-url>
 - Based on the latest [PDF.js](https://github.com/mozilla/pdf.js)
 - Modern UI and improved rendering
 - Origin check bypass enabled
+- [v5.3.31](https://github.com/mozilla/pdf.js/releases/tag/v5.3.31)
 
 ---
 
