@@ -53,6 +53,7 @@ Open a remote PDF:
 ```
 https://pdf-js.dkly.top/web/viewer.html?file=https://example.com/sample.pdf
 ```
+Example：[https://pdf-js.dkly.top/pdf.js/web/viewer.html?file=https://conasems-ava-prod.s3.sa-east-1.amazonaws.com/aulas/ava/dummy-1641923583.pdf](https://pdf-js.dkly.top/pdf.js/web/viewer.html?file=https://conasems-ava-prod.s3.sa-east-1.amazonaws.com/aulas/ava/dummy-1641923583.pdf)
 
 > **Note:** Ensure the `file` URL is properly URL-encoded.
 
